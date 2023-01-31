@@ -80,6 +80,7 @@ public class Main {
         diff = box2 % box1;
         System.out.println("Разница в весе между боксерами " + diff + " кг (спооб '%')");
     }
+
     public static void task8() {
         System.out.println("...Task 8...");
         var timeTotal = 640;
